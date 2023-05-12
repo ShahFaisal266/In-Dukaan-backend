@@ -29,7 +29,6 @@
     "nodemailer": "^6.6.0",
     "nodemailer-smtp-transport": "^2.7.4",
     "nodemon": "^2.0.19",
-    "socket.io": "^4.6.1",
     "stripe": "^10.5.0"
   }
 }
