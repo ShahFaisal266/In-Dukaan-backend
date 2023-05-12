@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const Stripe = require("Stripe");
+const Stripe = require("stripe");
 const mongoose = require("mongoose");
 const axios = require("axios")
 
